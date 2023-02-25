@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941114773531",
+    "project_id": "examtraining-291d2",
+    "storage_bucket": "examtraining-291d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941114773531:android:545b510e19f53ce283e8be",
+        "android_client_info": {
+          "package_name": "com.example.examtraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941114773531-5ndcfmhhdjf6o00rqub4abg5l93dg7b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1I3zOHf53XkMBErVHlKv3oSQsg6Xl3Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941114773531-5ndcfmhhdjf6o00rqub4abg5l93dg7b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
